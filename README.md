@@ -70,7 +70,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 Contributions are welcome! Please fork the repository and submit a pull request with your improvements or bug fixes.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
