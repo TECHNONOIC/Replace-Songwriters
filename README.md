@@ -15,6 +15,7 @@ The Song AI web application is a powerful platform that utilizes generative AI t
 - Customizable parameters such as genre, mood, and tempo
 - Seamless integration of text and numerical inputs
 - Diverse musical repertoire for enhanced generative capabilities
+- Song Tunes and Lyrics of greater Efficiency
 
 ## Installation
 
